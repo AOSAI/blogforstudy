@@ -1,5 +1,5 @@
 ---
-title: 神经网络进阶（Deep Learning）
+title: 2-2 神经网络进阶
 order: 6
 author: AOSAI
 date: 2024-02-03
@@ -10,6 +10,8 @@ tag:
   - 深度学习
   - TensorFlow
 ---
+
+神经网络进阶（Deep Learning）
 
 ## 1.TensorFlow 代码实现推理
 

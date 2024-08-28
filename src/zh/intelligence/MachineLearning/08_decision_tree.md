@@ -1,5 +1,5 @@
 ---
-title: 决策树模型（Decision Tree Model）
+title: 2-4 决策树模型
 order: 8
 author: AOSAI
 date: 2024-08-06
@@ -19,6 +19,8 @@ tag:
     .layout{}
   }
 </style>
+
+决策树模型（Decision Tree Model）
 
 ## 1. 决策树模型概述
 

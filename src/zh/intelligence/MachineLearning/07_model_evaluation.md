@@ -1,5 +1,5 @@
 ---
-title: 模型评估（Model Evaluation）
+title: 2-3 模型评估
 order: 7
 author: AOSAI
 date: 2024-04-23
@@ -19,6 +19,8 @@ tag:
     .layout{}
   }
 </style>
+
+模型评估（Model Evaluation）
 
 截止现在，你已经看到了很多机器学习的算法，比如线性回归、逻辑回归、甚至是深度学习（神经网络），你现在手上已经有了很多强大的机器学习的工具，但是该怎么有效的使用这些工具呢？
 

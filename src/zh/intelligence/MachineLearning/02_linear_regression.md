@@ -1,5 +1,5 @@
 ---
-title: 一元线性回归（Linear Regression with One Variable）
+title: 1-1 一元线性回归
 order: 2
 author: AOSAI
 date: 2023-10-31
@@ -19,6 +19,8 @@ tag:
     .layout{}
   }
 </style>
+
+一元线性回归（Linear Regression with One Variable）
 
 ## 1.线性回归模型（Linear Regression Model）
 

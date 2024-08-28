@@ -1,5 +1,5 @@
 ---
-title: 神经网络初探（Neural network model）
+title: 2-1 神经网络初探
 order: 5
 author: AOSAI
 date: 2024-02-02
@@ -20,6 +20,8 @@ tag:
     .layout{}
   }
 </style>
+
+神经网络初探（Neural network model）
 
 ## 1.深度学习的起源和发展
 

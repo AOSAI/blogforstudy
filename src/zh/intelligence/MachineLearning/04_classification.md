@@ -1,5 +1,5 @@
 ---
-title: 分类问题（Classification）
+title: 1-3 分类问题
 order: 4
 author: AOSAI
 date: 2023-11-11
@@ -8,6 +8,8 @@ category:
 tag:
   - 机器学习
 ---
+
+分类问题（Classification）
 
 ## 1.分类问题之逻辑回归
 

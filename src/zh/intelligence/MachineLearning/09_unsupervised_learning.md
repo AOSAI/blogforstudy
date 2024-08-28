@@ -1,5 +1,5 @@
 ---
-title: 无监督学习（Unsupervised Learning）
+title: 3-1 无监督学习
 order: 9
 author: AOSAI
 date: 2024-08-16
@@ -21,6 +21,8 @@ tag:
     .layout{}
   }
 </style>
+
+无监督学习（Unsupervised Learning）
 
 在这一章中，将会提到**聚类算法**、**异常检测**两种无监督学习算法。这两个技术都是当今许多公司在重要商业领域中使用的技术。
 

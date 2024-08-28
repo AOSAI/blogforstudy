@@ -1,5 +1,5 @@
 ---
-title: 多元线性回归（Linear Regression with Multiple Variable）
+title: 1-2 多元线性回归
 order: 3
 author: AOSAI
 date: 2023-11-07
@@ -8,6 +8,8 @@ category:
 tag:
   - 机器学习
 ---
+
+多元线性回归（Linear Regression with Multiple Variable）
 
 ## 1.多维特征（Multiple Features）
 

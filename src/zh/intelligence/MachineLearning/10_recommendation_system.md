@@ -1,5 +1,5 @@
 ---
-title: 推荐系统（Recommendation System）
+title: 3-2 推荐系统
 order: 10
 author: AOSAI
 date: 2024-08-22
@@ -19,6 +19,8 @@ tag:
     .layout{}
   }
 </style>
+
+推荐系统（Recommendation System）
 
 ## 1. 推荐系统入门
 
