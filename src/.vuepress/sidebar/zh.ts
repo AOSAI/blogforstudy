@@ -5,6 +5,7 @@ export const zhSidebar = sidebar({
   "/zh/intelligence/MachineLearning/": "structure",
   "/zh/intelligence/Numpy/": "structure",
   "/zh/intelligence/Matplotlib/": "structure",
+  "/zh/intelligence/PyTorch/": "structure",
   "/zh/intelligence/recommendationSystem/": [
     {
       text: "推荐系统",

@@ -19,6 +19,7 @@ export const zhNavbar = navbar([
       { text: "机器学习", link: "MachineLearning/" },
       { text: "Numpy", link: "Numpy/" },
       { text: "Matplotlib", link: "Matplotlib/" },
+      { text: "PyTorch", link: "PyTorch/" },
       { text: "推荐系统", link: "recommendationSystem/" },
     ],
   },
